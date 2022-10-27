@@ -1,0 +1,15 @@
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\bin\Debug\net5.0\NumberReverse.exe
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\bin\Debug\net5.0\NumberReverse.deps.json
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\bin\Debug\net5.0\NumberReverse.runtimeconfig.json
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\bin\Debug\net5.0\NumberReverse.runtimeconfig.dev.json
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\bin\Debug\net5.0\NumberReverse.dll
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\bin\Debug\net5.0\ref\NumberReverse.dll
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\bin\Debug\net5.0\NumberReverse.pdb
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.AssemblyInfoInputs.cache
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.AssemblyInfo.cs
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.csproj.CoreCompileInputs.cache
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.dll
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\ref\NumberReverse.dll
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.pdb
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.genruntimeconfig.cache
