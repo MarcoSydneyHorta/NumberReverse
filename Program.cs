@@ -19,7 +19,7 @@ namespace NumberReverse
             string[] xc = new string[tam];
             for (int i = 0; i < tam; i++)
             {
-                if (xs[i].CompareTo('-') == 0)
+                if (xs[i].CompareTo('-') == 0)  // Is a negative number
                 {
                     xc[0] = xs[0].ToString();
                 }
@@ -27,11 +27,11 @@ namespace NumberReverse
                 {
                     if (xs[0].CompareTo('-') == 0)
                     {
-                        xc[i] = xs[tam - i].ToString();
+                        xc[i] = xs[tam - i].ToString(); // Do not consider the first position because it is a negative sign
                     }
                     else
                     {
-                        xc[i] = xs[tam - 1 - i].ToString();
+                        xc[i] = xs[tam - i - 1].ToString();
                     }
 
                 }

@@ -13,3 +13,4 @@ D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.dl
 D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\ref\NumberReverse.dll
 D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.pdb
 D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.genruntimeconfig.cache
+D:\Marco\Cursos\C#\NumberReverse\NumberReverse\obj\Debug\net5.0\NumberReverse.csproj.AssemblyReference.cache
